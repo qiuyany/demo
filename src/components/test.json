@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PageA",
+    "type": "1",
+    "url": "/pageA"
+  },
+  {
+    "name": "PageB",
+    "type": "1",
+    "url": "/pageB"
+  }
+
+]
